@@ -1,0 +1,12 @@
+/* Estilo del content*/
+
+body
+{
+	font-family: helvetica, arial, sans-serif;
+	margin: 2em;
+}
+h1
+{
+	font-family: papyrus;
+	color: #373fff;
+}
